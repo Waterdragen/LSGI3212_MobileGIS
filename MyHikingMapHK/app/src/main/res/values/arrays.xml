@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="rangeDifficulties">
+        <item>1</item>
+        <item>5</item>
+    </array>
+    <array name="rangeLengths">
+        <item>0.0</item>
+        <item>20.0</item>
+    </array>
+    <array name="listRegions">
+        <item>Any</item>
+        <item>Central New Territories</item>
+        <item>Hong Kong Island</item>
+        <item>Lantau Island</item>
+        <item>North New Territories</item>
+        <item>Peng Chau</item>
+        <item>Sai Kung</item>
+        <item>West New Territories</item>
+    </array>
+    <array name="listTrailTypes">
+        <item>Any</item>
+        <item>Country Trail</item>
+        <item>Family Walk</item>
+        <item>Fitness Trail</item>
+        <item>Forest Trail</item>
+        <item>Geo Route</item>
+        <item>Islands Nature Heritage Trail</item>
+        <item>Jogging Trail</item>
+        <item>Long Distance Trail</item>
+        <item>Nature Trail</item>
+        <item>Other Route</item>
+        <item>Recommended Trail</item>
+        <item>Tree Walk</item>
+    </array>
+</resources>

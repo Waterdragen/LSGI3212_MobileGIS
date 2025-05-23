@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FragmentTrails">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbarTrails"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/greenTint"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+    </androidx.appcompat.widget.Toolbar>
+
+    <TextView
+        android:id="@+id/textTrailsTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/textTrails"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:textSize="24sp"
+        android:background="@color/greenTint"
+        android:padding="5dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/toolbarTrails"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerTrails"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:overScrollMode="never"
+        android:paddingBottom="200dp"
+        android:clipToPadding="false"
+        app:layout_constraintTop_toBottomOf="@id/textTrailsTitle"
+        app:layout_constraintStart_toStartOf="parent"/>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

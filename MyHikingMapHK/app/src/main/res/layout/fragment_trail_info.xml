@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FragmentTrailInfo">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbarInfo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/greenTint"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+    </androidx.appcompat.widget.Toolbar>
+
+    <TextView
+        android:id="@+id/textTrailInfoTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Trail info"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:textSize="24sp"
+        android:background="@color/greenTint"
+        android:padding="5dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/toolbarInfo"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/textTrailInfoTitle">
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:baselineAligned="false"
+            android:weightSum="10"
+            android:padding="10dp"
+            >
+            <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="3">
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:textColor="@color/black" android:textSize="24sp"
+                    android:text="Name"
+
+                    />
+            </LinearLayout>
+            <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="7">
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:textColor="@color/black" android:textSize="24sp"
+                    android:id="@+id/textTrailInfoName"
+                    android:text="@string/textGenericPlaceholder"
+                    />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:baselineAligned="false"
+            android:weightSum="10"
+            android:padding="10dp"
+            >
+            <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="3">
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:textColor="@color/black" android:textSize="24sp"
+                    android:text="Type"
+
+                    />
+            </LinearLayout>
+            <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="7">
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:textColor="@color/black" android:textSize="24sp"
+                    android:id="@+id/textTrailInfoType"
+                    android:text="@string/textGenericPlaceholder"
+                    />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:baselineAligned="false"
+            android:weightSum="10"
+            android:padding="10dp"
+            >
+            <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="3">
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:textColor="@color/black" android:textSize="24sp"
+                    android:text="Region"
+
+                    />
+            </LinearLayout>
+            <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="7">
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:textColor="@color/black" android:textSize="24sp"
+                    android:id="@+id/textTrailInfoRegion"
+                    android:text="@string/textGenericPlaceholder"
+                    />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:baselineAligned="false"
+            android:weightSum="10"
+            android:padding="10dp"
+            >
+            <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="3">
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:textColor="@color/black" android:textSize="24sp"
+                    android:text="Start"
+
+                    />
+            </LinearLayout>
+            <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="7">
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:textColor="@color/black" android:textSize="24sp"
+                    android:id="@+id/textTrailInfoStart"
+                    android:text="@string/textGenericPlaceholder"
+                    />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:baselineAligned="false"
+            android:weightSum="10"
+            android:padding="10dp"
+            >
+            <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="3">
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:textColor="@color/black" android:textSize="24sp"
+                    android:text="End"
+
+                    />
+            </LinearLayout>
+            <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="7">
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:textColor="@color/black" android:textSize="24sp"
+                    android:id="@+id/textTrailInfoEnd"
+                    android:text="@string/textGenericPlaceholder"
+                    />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:baselineAligned="false"
+            android:weightSum="10"
+            android:padding="10dp"
+            >
+            <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="3">
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:textColor="@color/black" android:textSize="24sp"
+                    android:text="Difficulty"
+
+                    />
+            </LinearLayout>
+            <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="7">
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:textColor="@color/black" android:textSize="24sp"
+                    android:id="@+id/textTrailInfoDifficulty"
+                    android:text="@string/textGenericPlaceholder"
+                    />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:baselineAligned="false"
+            android:weightSum="10"
+            android:padding="10dp"
+            >
+            <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="3">
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:textColor="@color/black" android:textSize="24sp"
+                    android:text="Length"
+
+                    />
+            </LinearLayout>
+            <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="7">
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:textColor="@color/black" android:textSize="24sp"
+                    android:id="@+id/textTrailInfoLength"
+                    android:text="@string/textGenericPlaceholder"
+                    />
+            </LinearLayout>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyHikingMapHK</string>
+    <string name="constEsriApiKey">ThisAPIKeyIsSecret</string>
+    <string name="constGoogleMapApiKey">ThisAPIKeyIsSecret</string>
+    <string name="textGenericPlaceholder">Placeholder</string>
+    <string name="buttonClose">Close</string>
+    <string name="title_activity_page_trails">PageTrails</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="textHome">Home</string>
+    <string name="textTrails">Trails</string>
+    <string name="textSearch">Search</string>
+    <string name="textSearchLength">Length</string>
+    <string name="textSearchDifficulty">Difficulty</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

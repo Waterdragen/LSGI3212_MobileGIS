@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00000000</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FF0000</color>
+    <color name="green">#00FF00</color>
+    <color name="blue">#0000FF</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="cyan">#00FFFF</color>
+    <color name="magenta">#FF00FF</color>
+
+    <color name="gray_100">#F5F5F5</color>
+    <color name="gray_200">#EEEEEE</color>
+    <color name="gray_300">#E0E0E0</color>
+    <color name="gray_400">#BDBDBD</color>
+    <color name="gray_500">#9E9E9E</color>
+    <color name="gray_600">#757575</color>
+    <color name="gray_700">#616161</color>
+    <color name="gray_800">#424242</color>
+    <color name="gray_900">#212121</color>
+
+    <color name="greenTint">#9ebc9f</color>
+    <color name="yellowTan">#d3b88c</color>
+    <color name="greenTea">#CBDFBD</color>
+    <color name="greenDew">#EAF1E4</color>
+    <color name="yellowLight">#F6F4D2</color>
+    <color name="yellowExLight">#FCFBEE</color>
+    <color name="greenLake">#519872</color>
+    <color name="greenForest">#3B5249</color>
+    <color name="greenDarkForest">#182C25</color>
+    <color name="greenNavy">#382933</color>
+</resources>

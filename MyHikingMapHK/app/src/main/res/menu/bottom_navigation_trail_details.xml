@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navTrailInfo"
+        android:icon="@drawable/ic_info_24px"
+        android:title="Info" />
+    <item
+        android:id="@+id/navTrailMap"
+        android:icon="@drawable/ic_map_24px"
+        android:title="Map" />
+    <item
+        android:id="@+id/navTrailElevation"
+        android:icon="@drawable/ic_elevation_24px"
+        android:title="Elevation" />
+</menu>

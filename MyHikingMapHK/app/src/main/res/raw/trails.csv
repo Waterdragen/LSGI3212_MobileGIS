@@ -1,0 +1,153 @@
+NAME,Section_No,Trail_ID,Length_KM,Difficulty,Region_En,Type_En,Trail_name_En,Shape_Length,Startpt_En,Finishpt_E
+Hong Kong Trail,1,hk_1,7,2,Hong Kong Island,Long Distance Trail,Hong Kong Trail Section 1 (The Peak To Pok Fu Lam Reservoir Road),6333.61299326,The Peak,Pok Fu Lam Reservoir Road
+Hong Kong Trail,2,hk_2,4.5,2,Hong Kong Island,Long Distance Trail,Hong Kong Trail Section 2 (Pok Fu Lam Reservoir Road To Peel Rise),4332.41256317,Pok Fu Lam Reservoir Road,Peel Rise
+Hong Kong Trail,3,hk_3,6.5,2,Hong Kong Island,Long Distance Trail,Hong Kong Trail Section 3 (Peel Rise To Wan Chai Gap),5859.72288135,Peel Rise,Wan Chai Gap
+Hong Kong Trail,4,hk_4,7.5,2,Hong Kong Island,Long Distance Trail,Hong Kong Trail Section 4 (Wan Chai Gap To Wong Nai Chung Gap),7234.92011609,Wan Chai Gap,Wong Nai Chung Gap
+Hong Kong Trail,5,hk_5,4,3,Hong Kong Island,Long Distance Trail,Hong Kong Trail Section 5 (Wong Nai Chung Gap To Mount Parker Road),3500.28697209,Wong Nai Chung Gap,Mount Parker Road
+Hong Kong Trail,6,hk_6,4.5,2,Hong Kong Island,Long Distance Trail,Hong Kong Trail Section 6 (Mount Parker Road To Tai Tam Road),4458.71646891,Mount Parker Road,Tai Tam Road
+Hong Kong Trail,7,hk_7,7.5,2,Hong Kong Island,Long Distance Trail,Hong Kong Trail Section 7 (Tai Tam Road To To Tei Wan),7128.81337113,Tai Tam Road,To Tei Wan
+Hong Kong Trail,8,hk_8,8.5,3,Hong Kong Island,Long Distance Trail,Hong Kong Trail Section 8 (To Tei Wan To Tai Long Wan),7806.89414534,To Tei Wan,Tai Long Wan
+Lantau Trail,1,lt_1,2.5,1,Lantau Island,Long Distance Trail,Lantau Trail Section 1 (Mui Wo To Nam Shan),2210.65207717,Mui Wo,Nam Shan
+Lantau Trail,2,lt_2,6.5,4,Lantau Island,Long Distance Trail,Lantau Trail Section 2 (Nam Shan To Pak Kung Au),6337.80606183,Nam Shan,Pak Kung Au
+Lantau Trail,3,lt_3,4.5,4,Lantau Island,Long Distance Trail,Lantau Trail Section 3 (Pak Kung Au To Ngong Ping),4451.72789978,Pak Kung Au,Ngong Ping
+Lantau Trail,4,lt_4,4,2,Lantau Island,Long Distance Trail,Lantau Trail Section 4 (Ngong Ping To Sham Wat Road),5197.92284429,Ngong Ping,Sham Wat Road
+Lantau Trail,5,lt_5,7.5,3,Lantau Island,Long Distance Trail,Lantau Trail Section 5 (Sham Wat Road To Man Cheung Po),7770.69225067,Sham Wat Road,Man Cheung Po
+Lantau Trail,6,lt_6,2.5,2,Lantau Island,Long Distance Trail,Lantau Trail Section 6 (Man Cheung Po To Tai O),1891.5091641,Man Cheung Po,Tai O
+Lantau Trail,7,lt_7,10.5,3,Lantau Island,Long Distance Trail,Lantau Trail Section 7 (Tai O To Kau Ling Chung),9841.11723313,Tai O,Kau Ling Chung
+Lantau Trail,8,lt_8,5.5,2,Lantau Island,Long Distance Trail,Lantau Trail Section 8 (Kau Ling Chung To Shek Pik),4735.25906793,Kau Ling Chung,Shek Pik
+Lantau Trail,9,lt_9,6.5,2,Lantau Island,Long Distance Trail,Lantau Trail Section 9 (Shek Pik To Shui Hau),6415.58293191,Shek Pik,Shui Hau
+Lantau Trail,10,lt_10,6.5,2,Lantau Island,Long Distance Trail,Lantau Trail Section 10 (Shui Hau To Old Tung Chung Road),5773.3034842,Shui Hau,Old Tung Chung Road
+Lantau Trail,11,lt_11,4.5,2,Lantau Island,Long Distance Trail,Lantau Trail Section 11 (Old Tung Chung Road To Pui O),4167.55067224,Old Tung Chung Road,Pui O
+Lantau Trail,12,lt_12,9,3,Lantau Island,Long Distance Trail,Lantau Trail Section 12 (Pui O To Mui Wo),9003.32252626,Pui O,Mui Wo
+Maclehose Trail,1,mc_1,10.6,3,Sai Kung,Long Distance Trail,MacLehose Trail Section 1 (Pak Tam Chung To Long Ke),10097.41591482,Pak Tam Chung,Long Ke
+Maclehose Trail,2,mc_2,13.5,4,Sai Kung,Long Distance Trail,MacLehose Trail Section 2 (Long Ke To Pak Tam Au),12835.56422799,Long Ke,Pak Tam Au
+Maclehose Trail,3,mc_3,10.2,4,Sai Kung,Long Distance Trail,MacLehose Trail Section 3 (Pak Tam Au To Kei Ling Ha),11434.19923903,Pak Tam Au,Kei Ling Ha
+Maclehose Trail,4,mc_4,12.7,4,Sai Kung,Long Distance Trail,MacLehose Trail Section 4 (Kei Ling Ha To Tate's Cairn),4201.74445297,Kei Ling Ha,Tate's Cairn
+Maclehose Trail,5,mc_5,10.6,3,Central New Territories,Long Distance Trail,MacLehose Trail Section 5 (Tate's Cairn To Tai Po Road),7004.21868621,Tate’s Cairn,Tai Po Road
+Maclehose Trail,6,mc_6,4.6,2,Central New Territories,Long Distance Trail,MacLehose Trail Section 6 (Tai Po Road To Shing Mun),9414.94877992,Tai Po Road,Shing Mun Reservoir
+Maclehose Trail,7,mc_7,6.2,3,Central New Territories,Long Distance Trail,MacLehose Trail Section 7 (Shing Mun To Lead Mine Pass),6154.37910348,Shing Mun Reservoir,Lead Mine Pass
+Maclehose Trail,8,mc_8,9.7,4,Central New Territories,Long Distance Trail,MacLehose Trail Section 8 (Lead Mine Pass To Route Twisk),15224.28246669,Lead Mine Pass,Route Twisk
+Maclehose Trail,9,mc_9,6.3,2,West New Territories,Long Distance Trail,MacLehose Trail Section 9 (Route Twisk To Tin Fu Tsai),9137.95708553,Route Twisk,Tin Fu Tsai
+Maclehose Trail,10,mc_10,15.6,4,West New Territories,Long Distance Trail,MacLehose Trail Section 10 (Tin Fu Tsai To Tuen Mun),14332.18037988,Tin Fu Tsai,Tuen Mun
+Wilson Trail,1,ws_1,4.8,3,Hong Kong Island,Long Distance Trail,Wilson Trail Section 1 (Stanley Gap Road To Wong Nai Chung Reservoir),4822.56151643,Stanley Gap Road,Wong Nai Chung Reservoir
+Wilson Trail,2,ws_2,6.6,3,Hong Kong Island,Long Distance Trail,Wilson Trail Section 2 (Wong Nai Chung Reservoir To Lam Tin),6998.17786874,Wong Nai Chung Reservoir,Lam Tin
+Wilson Trail,3,ws_3,9.3,3,Central New Territories,Long Distance Trail,Wilson Trail Section 3 (Lam Tin To Tseng Lan Shue),9531.47899776,Lam Tin,Tseng Lan Shue
+Wilson Trail,4,ws_4,8,3,Central New Territories,Long Distance Trail,Wilson Trail Section 4 (Tseng Lan Shue To Sha Tin Pass),7940.2506633,Tseng Lan Shue,Sha Tin Pass
+Wilson Trail,5,ws_5,7.4,2,Central New Territories,Long Distance Trail,Wilson Trail Section 5 (Sha Tin Pass To Tai Po Road),8196.362565,Sha Tin Pass,Tai Po Road
+Wilson Trail,6,ws_6,5.3,2,Central New Territories,Long Distance Trail,Wilson Trail Section 6 (Tai Po Road To Shing Mun Reservoir),5472.66103678,Tai Po Road,Shing Mun Reservoir
+Wilson Trail,7,ws_7,10.2,3,Central New Territories,Long Distance Trail,Wilson Trail Section 7 (Shing Mun Reservoir To Yuen Tun Ha),10359.21214107,Shing Mun Reservoir,Yuen Tun Ha
+Wilson Trail,8,ws_8,9,4,North New Territories,Long Distance Trail,Wilson Trail Section 8 (Yuen Tun Ha To Cloudy Hill),8945.41392725,Yuen Tun Ha,Cloudy Hill
+Wilson Trail,9,ws_9,10.6,4,North New Territories,Long Distance Trail,Wilson Trail Section 9 (Cloudy Hill To Pat Sin Leng),10255.30710652,Cloudy Hill,Pat Sin Leng
+Wilson Trail,10,ws_10,6.8,4,North New Territories,Long Distance Trail,Wilson Trail Section 10 (Pat Sin Leng To Nam Chung),6911.80339354,Pat Sin Leng,Nam Chung
+Aberdeen Fitness Trail,0,fit_1,2.1,2,Hong Kong Island,Fitness Trail,Aberdeen Fitness Trail,2069.19450944,The entrance of Aberdeen Country Park near Yue Kwong Chuen,The entrance of Aberdeen Country Park near Yue Kwong Chuen
+Aberdeen Kids Walk,0,oth_25,0.112,1,Hong Kong Island,Other Route,Aberdeen Kids Walk,106.3555707,The entrance of Aberdeen Country Park near Yue Kwong Chuen,The entrance of Aberdeen Country Park near Yue Kwong Chuen
+Aberdeen Nature Trail,0,nat_7,1.2,1,Hong Kong Island,Nature Trail,Aberdeen Nature Trail,1414.29973043,Lower Aberdeen Reservoir,Upper Aberdeen Reservoir
+Aberdeen Tree Walk,0,tre_2,2.5,1,Hong Kong Island,Tree Walk,Aberdeen Tree Walk,2607.71884947,Aberdeen Tree Centre,Wan Chai Gap
+Aberdeen Wheel Chair Trail,0,oth_5,0.2,0,Hong Kong Island,Other Route,Aberdeen Wheelchair Trail,212.37766468,,
+Ap Chau Geosite,0,oth_27,1,1,North New Territories,Geo Route,Ap Chau Geosite,395.02438903,Ap Chau Story Room,Wave-cut platform
+Bride'S Pool Nature Trail,0,nat_5,0.7,1,North New Territories,Nature Trail,Bride's Pool Nature Trail,866.31436477,Bride's Pool,Bride's Pool
+Cheung Sheung Country Trail,0,cty_09,4.2,2,Sai Kung,Country Trail,Cheung Sheung Country Trail,4370.53720958,Hoi Ha Road,Yung Shue O
+Chi Ma Wan Country Trail,0,cty_15,18.5,4,Lantau Island,Country Trail,Chi Ma Wan Country Trail,17842.32418232,Shap Long Campsite,Shap Long Campsite
+Chuen Lung Family Walk,0,fmy_5,0.4,1,Central New Territories,Family Walk,Chuen Lung Family Walk,463.4936102,Chuen Lung Barbecue Site,Chuen Lung Barbecue Site
+Chung Pui Tree Walk,0,tre_12,0.25,1,North New Territories,Tree Walk,Chung Pui Tree Walk,295.14005413,Bride's Pool Road,Bride's Pool Road
+Clear Water Bay Tree Walk,0,tre_6,1.2,1,Central New Territories,Tree Walk,Clear Water Bay Tree Walk,932.96233411,Clearwater Bay Country Park Visitor Centre,Barbecue Area
+Double Haven Country Trail,0,cty_33,13.2,3,North New Territories,Country Trail,Double Haven Country Trail,10516.10859607,Wu Kau Tang,Lai Chi Wo Pier
+Eagle'S Nest Nature Trail,0,nat_10,3.2,1,Central New Territories,Nature Trail,Eagle's Nest Nature Trail,3800.50571803,Tai Po Road,Tai Po Road
+Fan Lau Country Trail,0,cty_16,2,1,Lantau Island,Country Trail,Fan Lau Country Trail,2386.41074372,Lantau Trail Section 7,Fau Lau village
+Fu Tei Country Trail,0,cty_32,4,2,West New Territories,Country Trail,Fu Tei Country Trail,4119.20308683,Fu Tei barbecue area,End of Lam Tei Irrigation Reservoir
+Fung Hang Family Walk,0,fmy_1,1.67,1,North New Territories,Family Walk,Fung Hang Family Walk,1693.69973558,Fung Hang,Bride's Pool Road
+High Island Geo Trail,0,oth_26,4.3,2,Sai Kung,Geo Route,High Island Geo Trail,2735.11637021,High Island Reservoir East Dam,High Island Reservoir East Dam
+High Junk Peak Country Trail,0,cty_13,6.4,3,Sai Kung,Country Trail,High Junk Peak Country Trail,6352.76956989,Ng Fai Tin,Tai Miu Au
+Ho Pui Reservoir Family Walk,0,fmy_3,2.1,1,West New Territories,Family Walk,Ho Pui Reservoir Family Walk,2120.49295079,Ho Pui village,Ho Pui village
+Hok Tau Country Trail,0,cty_03,2.5,2,North New Territories,Country Trail,Hok Tau Country Trail,2543.36790553,Hok Tau Road,Hok Tau Road
+Hok Tau Reservoir Family Walk,0,fmy_2,2.5,1,North New Territories,Family Walk,Hok Tau Reservoir Family Walk,2155.91503232,Hok Tau Reservoir,Hok Tau Reservoir
+Hong Kong Olympic Trail,0,oth_20,5.6,0,Lantau Island,Other Route,Hong Kong Olympic Trail,5605.25356163,,
+Hong Pak Country Trail,0,cty_21,3.6,2,Hong Kong Island,Country Trail,Hong Pak Country Trail,4013.52265179,Quarry Bay Management Centre,Mount Parker Road
+Hung Mui Kuk Nature Trail,0,nat_9,1.3,1,Central New Territories,Nature Trail,Hung Mui Kuk Nature Trail,1251.76421897,Hung Mui Kuk,water catchment
+Islands Nature Heritage Trail - Mui Wo Section,0,oth_18,7,2,Lantau Island,Islands Nature Heritage Trail,Islands Nature Heritage Trail - Mui Wo Section,6576.57634441,,
+Islands Nature Heritage Trail - Ngong Ping Section,0,oth_17,9,0,Lantau Island,Islands Nature Heritage Trail,Islands Nature Heritage Trail - Ngong Ping Section,8623.9241984,,
+Islands Nature Heritage Trail - Peng Chau Section,0,oth_19,5,0,Peng Chau,Islands Nature Heritage Trail,Islands Nature Heritage Trail - Peng Chau Section,5897.25716252,,
+Islands Nature Heritage Trail - Tai O Section,0,oth_16,14,0,Lantau Island,Islands Nature Heritage Trail,Islands Nature Heritage Trail - Tai O Section,13815.52394912,,
+Kam Shan Family Walk,0,fmy_4,1,1,Central New Territories,Family Walk,Kam Shan Family Walk,1265.79786861,Kam Shan Road,Kam Shan Road
+Kam Shan Tree Walk,0,tre_13,1,1,Central New Territories,Tree Walk,Kam Shan Tree Walk,861.84528897,Kowloon Reservoir,Kowloon Reception Reservoir
+Kap Lung Ancient Trail,0,cty_27,2,2,West New Territories,Country Trail,Kap Lung Ancient Trail Country Trail,1796.84118724,Tsuen Kam Au,Lui Kung Tin
+Kap Lung Forest Trail,0,oth_21,3.9,2,West New Territories,Other Route,Kap Lung Forest Trail,3833.26500515,,
+Kat O Heritage Trail,0,oth_40,3.5,2,North New Territories,Recommended Trail,Kat O Heritage Trail,3098.87560062,Kat O Pier,Kat O Pier
+Kei Ling Ha Tree Walk,0,tre_10,0.65,1,Sai Kung,Tree Walk,Kei Ling Ha Tree Walk,616.7861932,Shui Long Wo,Kei Ling Ha Lo Wai
+Keung Shan Country Trail,0,cty_19,8.2,3,Lantau Island,Country Trail,Keung Shan Country Trail,8208.43775682,Tai O Road,Kau Ling Chung water catchment
+Lai Chi Chong Geosite,0,oth_29,1,1,Sai Kung,Geo Route,Lai Chi Chong Geosite,492.92561743,Lai Chi Chong Pier,Lai Chi Chong Pier
+Lai Chi Wo Nature Trail,0,nat_15,1.2,1,North New Territories,Nature Trail,Lai Chi Wo Nature Trail,1083.24575531,Lai Chi Wo,Lai Chi Wo
+Lau Shui Heung Country Trail,0,cty_05,4.4,3,North New Territories,Country Trail,Lau Shui Heung Country Trail,4503.85502834,Lau Shui Heung Reservoir,Lau Shui Heung Reservoir
+Lin Ma Hang Country Trail,0,cty_36,2.6,3,North New Territories,Country Trail,Lin Ma Hang Country Trail,2564.09903211,Lin Ma Hang,Hung Fa Chai
+Lion Rock War Relics Trail,0,oth_22,9,3,Central New Territories,Other Route,Lion Rock War Relics Trail,7998.68917154,Tate's Cairn (Gilwell Campsite),Beacon Hill
+Lo Fu Tau Country Trail,0,cty_30,3.4,2,Lantau Island,Country Trail,Lo Fu Tau Country Trail,3479.38966972,A Po Long (Olympic Trail),Lo Fu Tau
+Luk Wu Country Trail,0,cty_10,5.3,3,Sai Kung,Country Trail,Luk Wu Country Trail,5265.38215086,Sai Kung Sai Wan Road,Pak Tam Road Yee Ting
+Lung Ha Wan Country Trail,0,cty_08,2.3,2,Sai Kung,Country Trail,Lung Ha Wan Country Trail,2417.63369967,Tai Hang Tun,Lung Ha Wan
+Lung Mun Country Trail,0,cty_25,5,3,West New Territories,Country Trail,Lung Mun Country Trail,4943.85477982,Chuen Lung,Pineapple Dam
+Ma On Shan Country Trail,0,cty_14,4.5,2,Central New Territories,Country Trail,Ma On Shan Country Trail,4635.13869192,Ma On Shan Barbecue Area,Tai Shui Tseng
+Ma On Shan Family Walk,0,fmy_1,1.67,1,North New Territories,Family Walk,Fung Hang Family Walk,608.02950269,Fung Hang,Bride's Pool Road
+Ma Shi Chau Nature Trail,0,nat_1,1.5,1,North New Territories,Nature Trail,Ma Shi Chau Nature Trail,1586.26254099,Sam Mun Tsai,Ma Shi Chau
+Nai Chung Tree Walk,0,tre_11,0.27,1,Central New Territories,Tree Walk,Nai Chung Tree Walk,204.42724151,Nai Chung Barbecue Site,Nai Chung Barbecue Site
+Nam Chung Country Trail,0,cty_02,5.5,3,North New Territories,Country Trail,Nam Chung Country Trail,5418.01383967,Nam Chung,Tan Chuk Hang
+Nam Shan Tree Walk,0,tre_16,0.44,1,Lantau Island,Tree Walk,Nam Shan Tree Walk,409.35416397,South Lantau Road,Nam Shan
+Nei Lak Shan Country Trail,0,cty_20,5,2,Lantau Island,Country Trail,Nei Lak Shan Country Trail,4648.18928031,Dong Shan Fa Mun,Dong Shan Fa Mun
+Ngong Ping Tree Walk,0,tre_15,0.35,1,Lantau Island,Tree Walk,Ngong Ping Tree Walk,329.3766946,Ngong Ping,Ngong Ping
+Pak Tam Chung Family Walk,0,fmy_7,1.4,1,Sai Kung,Family Walk,Pak Tam Chung Family Walk,1400.41361575,Pak Tam Chung Barbecue Area Car Park,Pak Tam Road
+Pak Tam Chung Hiking Practice Trail,0,oth_7,0.4,0,Sai Kung,Other Route,Pak Tam Chung Hiking Practice Trail,289.41764509,,
+Pak Tam Chung Nature Trail,0,nat_11,0.9,1,Sai Kung,Nature Trail,Pak Tam Chung Nature Trail,936.54136467,Tai Mong Tsai Road Fuk Hing Bridge,Sheung Yiu Folk Museum
+Pak Tam Chung Tree Walk,0,tre_9,0.58,1,Sai Kung,Tree Walk,Pak Tam Chung Tree Walk,548.65680136,Pak Tam Chung P.H.A.B. Site,Pak Tam Chung P.H.A.B. Site
+Pak Tam Chung Wheelchair Trail,0,oth_3,0.64,0,Sai Kung,Other Route,Pak Tam Chung Wheel Chair Trail,612.47910984,,
+Pak Tam Country Trail,0,cty_11,1.8,1,Sai Kung,Country Trail,Pak Tam Country Trail,1941.34616839,Pak Tam Au,Pak Tam Road Yee Ting
+Pat Sin Leng Nature Trail,0,nat_4,4,2,North New Territories,Nature Trail,Pat Sin Leng Nature Trail,4537.89348364,Tai Mei Tuk Management Centre,Bride's Pool
+Peak Trail (High West Section),0,oth_42,5.5,2,Hong Kong Island,Recommended Trail,Peak Trail (High West Section),4847.36817879,Peak,Pok Fu Lam
+Peak Trail (Pinewood Battery Section),0,oth_41,4.7,2,Hong Kong Island,Recommended Trail,Peak Trail (Pinewood Battery Section),4404.37561913,Peak,Kotewall Road
+Pineapple Dam Nature Trail,0,nat_8,0.8,1,Central New Territories,Nature Trail,Pineapple Dam Nature Trail,835.2941816,Pineapple Dam,Pineapple Dam
+Pinewood Battery Heritage Trail,0,oth_23,0.4,1,Hong Kong Island,Other Route,Pinewood Battery Heritage Trail,312.15767656,"Entrance of the Picnic Area Site No.1 on Hatton Road, Lung Fu Shan Country Park","Entrance of the Picnic Area Site No.1 on Hatton Road, Lung Fu Shan Country Park"
+Ping Chau Country Trail,0,cty_23,6,2,North New Territories,Country Trail,Ping Chau Country Trail,5803.14522314,Ping Chau Pier,Ping Chau Pier
+Plover Cove Reservoir Country Trail,0,cty_29,15.5,5,North New Territories,Country Trail,Plover Cove Reservoir Country Trail,15634.55260007,Wu Kau Tang,Tai Mei Tuk
+Pok Fu Lam Family Walk,0,fmy_10,3.5,1,Hong Kong Island,Family Walk,Pok Fu Lam Family Walk,3256.10113399,Pok Fu Lam Reservoir Management Centre,Pok Fu Lam Reservoir Road
+Pok Fu Lam Tree Walk,0,tre_1,3.2,1,Hong Kong Island,Tree Walk,Pok Fu Lam Tree Walk,3422.59804401,Peak Tram,Harlech Road
+Pottinger Peak Country Trail,0,cty_06,1.9,2,Hong Kong Island,Country Trail,Pottinger Peak Country Trail,1677.21532095,Shek O Ma Tong Au,Cape Collinson Road
+Quarry Bay Jogging Trail,0,jog_5,2.5,1,Hong Kong Island,Jogging Trail,Quarry Bay Jogging Trail,2546.03944985,The entrance of Sir Cecil's Ride of Mount Parker Road,The middle part of Sir Cecil's Ride
+Quarry Bay Tree Walk,0,tre_5,1.1,1,Hong Kong Island,Tree Walk,Quarry Bay Tree Walk,1092.72944148,Mount Parker Road,Greig Road
+Reception Reservoir Jogging Trail,0,jog_2,1.6,1,Central New Territories,Jogging Trail,Kowloon Reception Reservoir Jogging Trail,1716.2946638,Surrounding Kowloon Reception Reservoir,
+Robin'S Nest Country Trail,0,cty_35,3.5,3,North New Territories,Country Trail,Robin's Nest Country Trail,3597.79004302,Shan Tsui,Hung Fa Chai
+Rotary Park Nature Trail,0,nat_16,0.8,1,Central New Territories,Nature Trail,Rotary Park Nature Trail,778.3003152,Rotary Park,Route Twisk
+Sharp Island Country Trail,0,cty_34,2,1,Sai Kung,Country Trail,Sharp Island Country Trail,1888.66098965,Hap Mun Bay,Kiu Tsui
+Sharp Island Geo Trail,0,oth_30,0.7,1,Sai Kung,Geo Route,Sharp Island Geo Trail,674.5106789,Kiu Tsui Pier,Kiu Tsui Pier
+Shek Lei Pui Reservoir Jogging Trail,0,jog_3,1.7,1,Central New Territories,Jogging Trail,Shek Lei Pui Reservoir Jogging Trail,1827.36746064,Surrounding Shek Lei Pui Reservoir,
+Shek Pik Country Trail,0,cty_31,5.5,3,Lantau Island,Country Trail,Shek Pik Country Trail,5291.84327703,"Wisdom Path, Ngong Ping",Shek Pik catchwater
+Sheung Yiu Country Trail,0,cty_12,3.3,2,Sai Kung,Country Trail,Sheung Yiu Country Trail,3155.13996985,Sheung Yiu,Sai Kung Man Yee Road
+Sheung Yiu Family Walk,0,fmy_8,1.8,1,Sai Kung,Family Walk,Sheung Yiu Family Walk,1765.17580556,Sheung Yiu,Tai Mong Tsai Road
+Shing Mun Jogging Trail,0,jog_1,5,1,Central New Territories,Jogging Trail,Shing Mun Jogging Trail,4785.83977159,Shing Mun Reservoir Main Dam,The junction with Reservoir Walk
+Shing Mun Reservoir Walk,0,oth_47,7.5,3,Central New Territories,Recommended Trail,Shing Mun Reservoir Walk,8516.54821662,Pineapple Dam,Pineapple Dam
+South Lantau Country Trail,0,cty_18,10.3,3,Lantau Island,Country Trail,South Lantau Country Trail,10341.44185247,Nam Shan,Tong Fuk catchwater
+Tai Lam Chung Country Trail,0,cty_26,5.5,3,West New Territories,Country Trail,Tai Lam Chung Country Trail,6140.63620135,Ma On Kong Warden Post,Kat Hing Bridge
+Tai Lam Nature Trail,0,nat_19,10,3,West New Territories,Nature Trail,Tai Lam Nature Trail,7671.0671886,Tai Tong,Tsing Lung Tau
+Tai Long Wan Hiking Trail,0,oth_31,12,4,Sai Kung,Geo Route,Tai Long Wan Hiking Trail,11230.70244765,Sai Kung Sai Wan Road,Pak Tam Au
+Tai Mei Tuk Family Walk,0,fmy_11,1,1,North New Territories,Family Walk,Tai Mei Tuk Family Walk,933.80487728,Tai Mei Tuk,Tai Mei Tuk
+Tai Mo Shan Family Walk,0,fmy_6,0.5,1,West New Territories,Family Walk,Tai Mo Shan Family Walk,566.69883989,Rotary Park,Rotary Park
+Tai Po Kau Blue Walk,0,oth_12,4,0,North New Territories,Forest Walk,Tai Po Kau Blue Walk,4356.90909227,,
+Tai Po Kau Brown Walk,0,oth_9,7.5,0,North New Territories,Forest Walk,Tai Po Kau Brown Walk,7727.73393143,,
+Tai Po Kau Nature Trail,0,nat_13,1,2,North New Territories,Nature Trail,Tai Po Kau Nature Trail,1056.74127474,Tsung Tsai Yuen,"Picnic Site no.1, Tai Po Kau Nature Reserve"
+Tai Po Kau Red Walk,0,oth_10,3,0,North New Territories,Forest Walk,Tai Po Kau Red Walk,3279.28378795,,
+Tai Po Kau Yellow Walk,0,oth_11,10,0,North New Territories,Forest Walk,Tai Po Kau Yellow Walk,10341.09579911,,
+Tai Tam Country Trail,0,cty_01,2.6,3,Hong Kong Island,Country Trail,Tai Tam Country Trail,2365.28175728,Wong Nai Chung Reservoir Park,Wong Nai Chung Reservoir Park
+Tai Tam Family Walk,0,fmy_13,1.6,1,Hong Kong Island,Family Walk,Tai Tam Family Walk,1610.68568335,Tai Tam Reservoir Road (near Parkview Mansions),Tai Tam Reservoir Road (near Tai Tam Upper Reservoir)
+Tai Tam Tree Walk,0,tre_4,0.14,1,Hong Kong Island,Tree Walk,Tai Tam Tree Walk,141.22998326,Tai Tam Barbecue Area Site No. 3,Tai Tam Barbecue Area Site No. 3
+Tai Tan Country Trail,0,cty_07,6.7,2,Sai Kung,Country Trail,Tai Tan Country Trail,7062.50158133,Hau Tong Kai,Hoi Ha Village
+Tai Tan Tree Walk,0,tre_7,0.23,1,Sai Kung,Tree Walk,Tai Tan Tree Walk,221.20212175,Tai Tan Campsite,Tai Tan Campsite
+Tai Tong Nature Trail,0,nat_6,3.2,2,West New Territories,Nature Trail,Tai Tong Nature Trail,2707.17990215,Tai Tong Barbecue Area,Tai Tong Management Centre
+Tai Tong Tree Walk,0,tre_14,0.65,1,West New Territories,Tree Walk,Tai Tong Tree Walk,635.60695463,Tai Tong Barbecue Area,Tai Tong Barbecue Area
+Tei Tong Tsai Country Trail,0,cty_24,2,1,Lantau Island,Country Trail,Tei Tong Tsai Country Trail,1952.53994682,Tung Chung Road,Tei Tong Tsai
+Tsiu Hang Nature Trail,0,nat_12,0.8,1,Sai Kung,Nature Trail,Tsiu Hang Nature Trail,848.51381361,Lions Nature Education Centre,Lions Nature Education Centre Insectarium
+Tuen Mun Fitness Trail,0,fit_5,3.1,1,West New Territories,Fitness Trail,Tuen Mun Fitness Trail,3187.74696671,The end of the catchwater road along Stage 10 of MacLehose Trail,So Kwun Wat
+Twisk Nature Trail,0,nat_2,2,1,West New Territories,Nature Trail,Twisk Nature Trail,1758.61552836,Tsuen Kam Au,Tsuen Kam Au
+War Relics Trail (Shing Mun),0,oth_24,0.25,1,Central New Territories,Other Route,War Relics Trail (Shing Mun),418.17346454,Memorial Arch of MacLehose Trail Section 6 at Barbecue Site No.5,Located at Observation Post. Take the return route to Shing Mun or go to Kam Shan via MacLehose Trail Section 6
+Wisdom Path,0,oth_6,0.15,0,Lantau Island,Other Route,Wisdom Path,150.68356334,,
+Wong Lung Hang Country Trail,0,cty_17,2.3,3,Lantau Island,Country Trail,Wong Lung Hang Country Trail,2237.75885657,Sheung Tung Au,Wong Lung Hang Road
+Wong Shek Family Walk,0,fmy_9,2,1,Sai Kung,Family Walk,Wong Shek Family Walk,1910.01998344,Wong Shek Pier Bus Terminus,Wong Shek Pier Bus Terminus
+Wong Shek Tree Walk,0,tre_8,0.41,1,Sai Kung,Tree Walk,Wong Shek Tree Walk,379.11745008,Pak Tam Road,Wong Shek Family Walk
+Wu Kau Tang Country Trail,0,cty_22,2.4,2,North New Territories,Country Trail,Wu Kau Tang Country Trail,2320.44774392,Wu Kau Tang Tin Sum,Bride's Pool road
+Yuen Tsuen Ancient Trail,0,cty_28,12.5,4,West New Territories,Country Trail,Yuen Tsuen Ancient Trail Country Trail,12311.25931586,"Ha Fa Shan, Tsuen Wan",Tai Tong Barbecue Site
+Yuen Tun Country Trail,0,cty_04,9,3,West New Territories,Country Trail,Yuen Tun Country Trail,9109.120122,Tsing Lung Tau,Kat Hing Bridge
